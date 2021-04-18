@@ -1,0 +1,10 @@
+/node_modules
+*.config.js
+*.d.ts
+*.ico
+*.css
+*.svg
+/server
+/dist
+/public
+*.js
